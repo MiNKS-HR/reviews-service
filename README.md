@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+This is an emulation of an 'item reviews' micro service.  The master branch is styled like the reviews component on AirBnB.  
 
 ## Related Projects
 
